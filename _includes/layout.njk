@@ -1,25 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Software Aficiondo Page</title>
-  <link rel="icon" href="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-32x32-1.png">
+  <head>
+    <meta charset="UTF-8">
+    <title>Software Aficiondo Page</title>
+    <link rel="icon" href="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-32x32-1.png">
 
- <style>
-    .container {
-      display: flex;
-      justify-content: center;
-    }
-    .content {
-      max-width: 800px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="content">
+    <style>
+      body {
+        max-width: 768px;
+      }
+    </style>
+  </head>
+  <body>
+    <main style="margin: .5rem;">
+      <img style="max-height: 280px; max-width:100%; margin: 2rem auto 1.2rem; display: block" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-1.jpg">
+      <h1 style="text-align: center">Patrick Roy</h1>
+      <p style="text-align: center">Pragmatic software development insights</p>
       {{ content | safe }}
-    </div>
-  </div>
-</body>
+  </body>
 </html>
