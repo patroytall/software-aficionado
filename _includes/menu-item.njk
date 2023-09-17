@@ -1,0 +1,15 @@
+{% if item.data %}
+  <a href="{{ item.data.url }}">
+    {{ item.data.title }}
+  </a>
+{% else %}
+  <span>{{ item.slug }}</span>
+{% endif %}
+
+<ul>
+  {% asyncEach item in item.children %}
+  <li>
+    {% include "menu-item.njk" %}
+  </li>
+  {% endeach %}
+</ul>

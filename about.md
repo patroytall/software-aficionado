@@ -1,18 +1,12 @@
+---
+layout: page.njk
+---
 # About Me
 
-My name is Patrick Roy. For 25 years, I have been having fun writing code. I have named this site Software Aficionado based on the definition "a person who is very knowledgeable and enthusiastic about a subject". Maybe I am only knowledgeable about software but I am definitively enthusiastic. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/), [influences](../references/index.md), [My LeetCode](https://github.com/patroytall/leetcode), [GitHub](https://github.com/patroytall). I am fluent in French and English.
+My name is Patrick Roy. For 30 years, I have been having fun writing code. I have named this site Software Aficionado based on the definition "a person who is very knowledgeable and enthusiastic about a subject". Maybe I am only knowledgeable about software but I am definitively enthusiastic. See also [LinkedIn](https://www.linkedin.com/in/patrick-roy-0ba24973/), [influences](../references/index.md), [My LeetCode](https://github.com/patroytall/leetcode), [GitHub](https://github.com/patroytall). I am fluent in French and English.
 
-I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance, security, and quality assurance.
-I currently work for Morgan Stanley as a senior architect. We are building a risk management platform using a microservice and realtime event base architecture. My primary responsability has been the deployment, scalling, high availability, and observability of the platform. q
-
-Prior to Morgan Stanley, I was working for Québecor Media as a lead architect for the QUB project where we released the [QUB](https://www.qub.ca/) application on [web](https://www.qub.ca/), [iOS](https://apps.apple.com/ca/app/qub/id942494435), and [Android](https://play.google.com/store/apps/details?id=com.netcosports.andjdm), Apple TV, Android TV, Fire TV, and Comcast X1 (Helix) composed of:
-- [QUB info](https://www.qub.ca/info) - largest Québec news source
-- [QUB musique](https://www.qub.ca/musique) - 70 million songs - [iOS](https://apps.apple.com/ca/app/qub-musique/id1489964737) - [Android](https://play.google.com/store/apps/details?id=com.numeriq.qub.musique)
-- [QUB vidéo](https://www.qub.ca/videos) - in top Canadian video and live content services; TVA+ and Vrai - [iOS](https://apps.apple.com/ca/app/tva/id1150619411) - [Android](https://play.google.com/store/apps/details?id=tv.accedo.ott.flow.tva.quebecor)
-- [QUB radio](https://www.qub.ca/radio) - podcast and live radio service
-- [QUB livre](https://qublivre.ca/) - a Shopify+ bookstore
-
-An accomplishment I am proud of in the Québecor project is the delivery of the cache and cache invalidation solution by my team which has allowed the QUB platform to scale with minimal load on the backend services and support live updates.
+I am a technical leader with broad enterprise software development experience from roles in architecture, management, operations, performance test, security, and automated quality assurance.
+I currently work for Acerta as a Senior Cloud Architect where we are building the LinePulse data analytics solution for the automotive production industry; a multi-tenant Software as a Service platform (SaaS) constituted of an asynchronous ingestion pipeline, a microservices backend, and a Next.js frontend. I am also the co-founder of EMVEE data where we are building a data analytics solution for the car retail industry.
 
 A software project is controlled chaos. Brilliant people come together to build but steer in all directions. The act of leadership is getting the best of everyone so the group can deliver most value. Your experience is what makes leadership possible because you understand the team and have gone to similar destinations before. This form of leadership requires connection which for me comes from being hands-on. 
 

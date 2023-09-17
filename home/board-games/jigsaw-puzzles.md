@@ -1,3 +1,6 @@
+---
+layout: page.njk
+---
 # Jigsaw Puzzles
 
 ## 2023-05-01 - 1000 pieces - Fur Home

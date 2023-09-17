@@ -1,3 +1,6 @@
+---
+layout: page.njk
+---
 # Home
 
 ## [Board Games](./board-games.md)

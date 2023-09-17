@@ -2,6 +2,7 @@
 
 # Development environment
 
+Start development server on port 3000:
 ``` bash
 deno task serve
 ```

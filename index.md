@@ -1,5 +1,5 @@
 ---
-layout: layout.njk
+layout: landing.njk
 ---
 # UNDER CONSTRUCTION
 
@@ -24,7 +24,7 @@ Personal and family content.
 
 Eloquence is not a given. My prose is rough and direct; likely incorrect at times. Nuances are skipped for efficiency reasons.
 
-My experience with frontend implementation is minimal. I built this site using [Deno](https://deno.com/) and [Lume](https://lume.land/) to learn about these technologies. Source code is available in [GitHub](https://github.com/patroytall/patrick-roy-me).
+My experience with frontend implementation is minimal. I built this site using [Deno](https://deno.com/) and [Lume](https://lume.land/) to learn about these technologies. Source code is available in [GitHub](https://github.com/patroytall/software-aficionado).
 
 Information on this site is based on my years of experience not on in-depth analysis or research. I hope the material helps you in your software development endeavors.
 

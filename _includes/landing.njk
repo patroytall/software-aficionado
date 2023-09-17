@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Software Aficiondo Page</title>
+    <link rel="icon" href="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-32x32-1.png">
+
+    {# <style>
+      body {
+        max-width: 768px;
+      }
+    </style> #}
+  </head>
+  <body>
+    <main style="max-width: 768px; margin: .5rem auto;">
+      <img style="max-height: 280px; max-width:100%; margin: 2rem auto 1.2rem; display: block" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/global/patrick-1.jpg">
+      <h1 style="text-align: center">Patrick Roy</h1>
+      <p style="text-align: center">Pragmatic software development insights</p>
+      {# Menu
+      <ul>
+        {% for item in nav.breadcrumb("/references") %}
+          <li>
+            {% if item.data %}
+              <a href="{{ item.data.url }}">
+                {{ item.data.title }}
+              </a>
+            {% else %}
+              <span>{{ item.slug }}</span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul> #}
+      <div>
+        {{ content | safe }}
+        <div></main>
+      </body>
+    </html>
