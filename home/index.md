@@ -3,10 +3,10 @@ layout: page.njk
 ---
 # Home
 
-## [Board Games](./board-games.md)
+## [Board Games](./board-games)
 
-## [Restaurants](./restaurants.md)
+## [Restaurants](./restaurants)
 
-## [Television Series](./television-series.md)
+## [Television Series](./television-series)
 
 # [Cooking](./cooking/)

@@ -1,6 +1,7 @@
 ---
 layout: page.njk
 ---
+
 # Cooking
 
 [Agneau Tikka Massala](https://www.safrangourmand.fr/agneau-tikka-massala/)
