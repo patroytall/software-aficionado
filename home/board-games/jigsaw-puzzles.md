@@ -3,6 +3,11 @@ layout: page.njk
 ---
 # Jigsaw Puzzles
 
+## 2023-11-22 - 1000 pieces - Ottawa
+<p align="center">
+<img alt="Fur Home" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-ottawa.jpg"/>
+</p>
+
 ## 2023-05-01 - 1000 pieces - Fur Home
 <p align="center">
 <img alt="Fur Home" width="400" src="https://cdn.jsdelivr.net/gh/patroytall/patrick-roy-me-asset/image/home/puzzle/puzzle-fur-home.jpg"/>
