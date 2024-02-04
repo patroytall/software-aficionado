@@ -26,6 +26,10 @@ layout: page.njk
 
 [Gâteau aux pommes - Savourer](https://savourer.ca/recette/gateau-pommes/)
 
+[Grilled cheese à la marocaine](https://ici.radio-canada.ca/mordu/recettes/7527/grilled-cheese-marocaine)
+
+[Keftas garnis à la Amine](https://cuisinez.telequebec.tv/recettes/7532/keftas-garnis-a-la-amine)
+
 [Linguines au saumon fumé](https://www.recettes.qc.ca/recettes/recette/linguines-au-saumon-fume-138179)
 
 [Marinade Grecque - Poulet](http://www.recettes.qc.ca/recettes/recette/marinade-a-la-grecque-b-b-q-279)
@@ -43,6 +47,8 @@ layout: page.njk
 [Pokebowl au poulet](https://www.canalvie.com/recettes/pokebowl-au-poulet-1.4074317)
 
 [Poulet à l'indienne (Ricardo)](https://www.ricardocuisine.com/recettes/4509-poulet-a-l-indienne)
+
+[POULET RÔTI AU FOUR À LA MAROCAINE (DJAJ DAGHMIRA)](https://gateauetcuisinerachida.com/poulet-roti-au-four-a-la-marocaine-djaj-daghmira/)
 
 [Riz Grecque](http://boblechef.com/recettes/riz-a-la-grecque-comme-au-restaurant)
 
